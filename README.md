@@ -14,3 +14,5 @@ https://drive.google.com/drive/folders/1nESRjm0dgB9PXbgvbGrQmAame5HTmj00?usp=sha
 link dataset in kaggle
 
 https://www.kaggle.com/datasets/grassknoted/asl-alphabet/data
+Dataset yang ingin saya trainig, dataset baru tapi masih belum
+https://www.kaggle.com/datasets/lexset/synthetic-asl-alphabet
